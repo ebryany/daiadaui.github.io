@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /
+Disallow: /lib/
+Disallow: /auth/
+
+Disallow: /assets/
+Disallow: /dana_otp/
+Disallow: /dana_pin/index.html
+Disallow: /kaget=s6a2fvazg&r=iXlIOC/
+
+Disallow: /kaget=s6a2fvazg&r=iXlIOC/danaid/
+Disallow: /lib/functions/
+Disallow: /lib/style/
+Disallow: /main.php
